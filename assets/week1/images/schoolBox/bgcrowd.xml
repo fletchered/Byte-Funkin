@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgcrowd.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boppin0000" x="0" y="0" width="372" height="159" frameX="0" frameY="-9" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0001" x="372" y="0" width="372" height="159" frameX="0" frameY="-7" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0002" x="0" y="159" width="372" height="161" frameX="0" frameY="-4" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0003" x="372" y="159" width="372" height="161" frameX="0" frameY="-2" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0004" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0005" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0006" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0007" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0008" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0009" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0010" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0011" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0012" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0013" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+	<SubTexture name="boppin0014" x="0" y="320" width="372" height="161" frameX="0" frameY="0" frameWidth="372" frameHeight="168"/>
+</TextureAtlas>

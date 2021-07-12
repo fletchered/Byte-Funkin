@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpaiPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai Portrait Enter0000" x="0" y="0" width="249" height="145"/>
+	<SubTexture name="Senpai Portrait Enter0001" x="249" y="0" width="88" height="93" frameX="-21" frameY="0" frameWidth="249" frameHeight="145"/>
+	<SubTexture name="Senpai Portrait Enter0002" x="249" y="0" width="88" height="93" frameX="-21" frameY="0" frameWidth="249" frameHeight="145"/>
+	<SubTexture name="Senpai Portrait Enter0003" x="249" y="0" width="88" height="93" frameX="-26" frameY="0" frameWidth="249" frameHeight="145"/>
+	<SubTexture name="Senpai Portrait Enter0004" x="249" y="0" width="88" height="93" frameX="-26" frameY="0" frameWidth="249" frameHeight="145"/>
+	<SubTexture name="Senpai Portrait Enter0005" x="337" y="0" width="88" height="93" frameX="-30" frameY="0" frameWidth="249" frameHeight="145"/>
+	<SubTexture name="Senpai Portrait Enter0006" x="0" y="145" width="91" height="95" frameX="-30" frameY="0" frameWidth="249" frameHeight="145"/>
+	<SubTexture name="Senpai Portrait Enter0007" x="91" y="145" width="93" height="95" frameX="-30" frameY="0" frameWidth="249" frameHeight="145"/>
+	<SubTexture name="Senpai Portrait Enter0008" x="184" y="145" width="95" height="95" frameX="-30" frameY="0" frameWidth="249" frameHeight="145"/>
+</TextureAtlas>

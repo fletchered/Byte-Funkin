@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Text_Boxes.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bytefriend Portrait Enter copy0000" x="0" y="0" width="154" height="98" frameX="-19" frameY="0" frameWidth="173" frameHeight="98"/>
+	<SubTexture name="Bytefriend Portrait Enter copy0001" x="154" y="0" width="151" height="98" frameX="-10" frameY="0" frameWidth="173" frameHeight="98"/>
+	<SubTexture name="Bytefriend Portrait Enter copy0002" x="305" y="0" width="151" height="98" frameX="-4" frameY="0" frameWidth="173" frameHeight="98"/>
+	<SubTexture name="Bytefriend Portrait Enter copy0003" x="0" y="98" width="149" height="98" frameX="-2" frameY="0" frameWidth="173" frameHeight="98"/>
+	<SubTexture name="Bytefriend Portrait Enter copy0004" x="149" y="98" width="149" height="98" frameX="-1" frameY="0" frameWidth="173" frameHeight="98"/>
+	<SubTexture name="Bytefriend Portrait Enter copy0005" x="298" y="98" width="149" height="98" frameX="0" frameY="0" frameWidth="173" frameHeight="98"/>
+	<SubTexture name="Bytefriend Portrait Enter copy0006" x="298" y="98" width="149" height="98" frameX="0" frameY="0" frameWidth="173" frameHeight="98"/>
+	<SubTexture name="Bytefriend Portrait Enter copy0007" x="298" y="98" width="149" height="98" frameX="0" frameY="0" frameWidth="173" frameHeight="98"/>
+	<SubTexture name="Bytefriend Portrait Enter copy0008" x="298" y="98" width="149" height="98" frameX="0" frameY="0" frameWidth="173" frameHeight="98"/>
+</TextureAtlas>

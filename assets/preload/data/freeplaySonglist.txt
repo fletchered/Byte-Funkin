@@ -1,0 +1,7 @@
+Rally Tally:paddlebyte:1
+Topspin Tussle:paddlebyte:1
+Skater Skirmish:skatebyte:1
+Rocky Road:skatebyte:1
+Boxbanned:boxbyte:1
+Roundhouse Knockout:boxbyte:1
+Outlets:shufflebyte:1

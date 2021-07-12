@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bytefriend Idle0000" x="0" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0001" x="448" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0002" x="896" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0003" x="1344" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0004" x="1792" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0005" x="2240" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0006" x="2688" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0007" x="2688" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0008" x="2688" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0009" x="2688" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0010" x="2688" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0011" x="2688" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0012" x="2688" y="0" width="448" height="448"/>
+	<SubTexture name="Bytefriend Idle0013" x="2688" y="0" width="448" height="448"/>
+	<SubTexture name="SENPAI idle Black Lines0000" x="3136" y="0" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0001" x="0" y="711" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0002" x="887" y="711" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0003" x="1774" y="711" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0004" x="2661" y="711" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0005" x="0" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0006" x="887" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0007" x="1774" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0008" x="1774" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0009" x="1774" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0010" x="1774" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0011" x="1774" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0012" x="1774" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0013" x="1774" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0014" x="2661" y="1422" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0015" x="0" y="2133" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0016" x="887" y="2133" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0017" x="1774" y="2133" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0018" x="2661" y="2133" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0019" x="0" y="2844" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0020" x="887" y="2844" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0021" x="1774" y="2844" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0022" x="1774" y="2844" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0023" x="1774" y="2844" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0024" x="1774" y="2844" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0025" x="1774" y="2844" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0026" x="1774" y="2844" width="887" height="711"/>
+	<SubTexture name="SENPAI idle Black Lines0027" x="2661" y="2844" width="887" height="710" frameX="0" frameY="0" frameWidth="887" frameHeight="711"/>
+	<SubTexture name="gfDance0000" x="3548" y="2844" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0001" x="0" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0002" x="440" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0003" x="880" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0004" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0005" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0006" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0007" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0008" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0009" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0010" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0011" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0012" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0013" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0014" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0015" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0016" x="1760" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0017" x="2200" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0018" x="2640" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0019" x="3080" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0020" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0021" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0022" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0023" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0024" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0025" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0026" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0027" x="1320" y="3555" width="440" height="540" frameX="0" frameY="-1" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="gfDance0028" x="3520" y="3555" width="441" height="541"/>
+</TextureAtlas>

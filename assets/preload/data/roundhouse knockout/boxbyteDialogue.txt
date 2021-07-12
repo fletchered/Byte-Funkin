@@ -1,0 +1,18 @@
+:bf:Ay, what're you doing here?!
+:paddle:I couldn't miss a match like this! You're killing it!
+:bf:Hah! You really are a good guy.
+:paddle:Same with you! 'Been a while since we had some unique action.
+:bf:Unique?
+:box:...
+:paddle:Yeah! Usually it's just the equivalent of bar fights.
+:paddle:It's friendly, though!
+:box:...
+:paddle:... I think.
+:box:... It isn't.
+:paddle:Huh?
+:boxpunching:IT ISN'T!
+:bf:H-Hey-!
+:boxpunching:I WANT YOU OUT OF MY RING, LITTLE GUY!
+:bf:Oh c'mon, don't blue-ball me! I thought that was just a warmup!
+:box:Oh, it was.
+:boxpunching:NOW WE ROCK, BYTEFRIEND! LET'S DO THIS!
