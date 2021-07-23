@@ -376,6 +376,12 @@ class PlayState extends MusicBeatState
 
 				isHalloween = true;
 			}
+			case 'onepngbackground':
+				{
+					curStage = 'onepngbg';
+					var onepngbackground = new FlxSprite().loadGraphic(Paths.image('onepngtest/background', 'week7'));
+					add(onepngbackground);
+				}
 			case 'philly': 
 					{
 					curStage = 'philly';
@@ -560,7 +566,7 @@ class PlayState extends MusicBeatState
 
 					// defaultCamZoom = 0.9;
 
-					var bgSky = new FlxSprite().loadGraphic(Paths.image('weeb/weebSky','week6'));
+					var bgSky = new FlxSprite().loadGraphic(Paths.image('weeb/weebSky','week1'));
 					bgSky.scrollFactor.set(0.1, 0.1);
 					add(bgSky);
 
@@ -571,7 +577,7 @@ class PlayState extends MusicBeatState
 					treeLeaves.animation.addByPrefix('bounce', 'PETALS ALL', 24, false);
 					add(treeLeaves);
 
-					var bgStreet:FlxSprite = new FlxSprite(repositionShit).loadGraphic(Paths.image('weeb/weebStreet','week6'));
+					var bgStreet:FlxSprite = new FlxSprite(repositionShit).loadGraphic(Paths.image('weeb/weebStreet','week1'));
 					add(bgStreet);
 
 					var widShit = Std.int(bgSky.width * 6);
